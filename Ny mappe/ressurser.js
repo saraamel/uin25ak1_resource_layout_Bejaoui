@@ -46,3 +46,5 @@ const resources = [
         ]
     },
 ];
+
+//ressurser til bruk fra github
