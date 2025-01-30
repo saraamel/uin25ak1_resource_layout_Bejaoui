@@ -32,4 +32,4 @@ function displayResources(category, clickedElement) { //Viser ressurser
 
 const firstCategoryElement = document.querySelector("#category-menu li") //henter informasjon fra første knapp
 firstCategoryElement.classList.add("active") //markerer når knappen er aktiv med hvit bakgrunn
-displayResources('HTML', firstCategoryElement) //Viser HTML-kategori når siden refresher
+displayResources('HTML', firstCategoryElement) //Viser HTML-kategori når siden refresher siden
